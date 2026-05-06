@@ -1,0 +1,9 @@
+python-dotenv
+openai
+pydantic
+google-api-python-client
+google-auth
+google-auth-oauthlib
+requests
+requests-toolbelt
+thefuzz
